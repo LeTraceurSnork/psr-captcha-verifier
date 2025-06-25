@@ -1,5 +1,5 @@
 {
-    "name": "psr/captcha-verifier",
+    "name": "letraceursnork/captcha-verifier",
     "description": "Common interface for CAPTCHA verification libraries",
     "keywords": ["psr","captcha"],
     "homepage": "https://github.com/LeTraceurSnork/psr-captcha-verifier",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Psr\\Captcha\\": "src"
+            "LeTraceurSnork\\Captcha\\": "src"
         }
     }
 }
