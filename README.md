@@ -7,7 +7,7 @@ This repository contains all the interfaces related to proposed PSR CaptchaVerif
 ## Intendend usage
 
 ```php
-class SpecificCaptchaVerifier implements \Psr\Captcha\CaptchaVerifierInterface
+class SpecificCaptchaVerifier implements \LeTraceurSnork\Captcha\CaptchaVerifierInterface
 {
     // some implementation here
 }

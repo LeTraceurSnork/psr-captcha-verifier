@@ -1,6 +1,6 @@
 <?php
 
-namespace Psr\Captcha;
+namespace LeTraceurSnork\Captcha;
 
 /**
  * Interface of the object that CaptchaVerifierInterface MUST return on ::verify() method.

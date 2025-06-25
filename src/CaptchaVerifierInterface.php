@@ -1,6 +1,6 @@
 <?php
 
-namespace Psr\Captcha;
+namespace LeTraceurSnork\Captcha;
 
 /**
  * Interface of Captcha verification service itself.
